@@ -1,1 +1,1 @@
-{ "name": "private-pkg", "version": "1.0.0", "dependencies": { "node-huskar": "github:eleme/node-huskar#v2" } }
+{ "name": "private-pkg", "version": "1.0.0", "dependencies": { "node-huskar": "git+ssh://git@github.com/eleme/node-huskar.git#v2" } }
